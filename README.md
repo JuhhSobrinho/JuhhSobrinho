@@ -1,7 +1,6 @@
 # Hello World 👋
 
-  <img loading="lazy" align="right" src="https://media.tenor.com/XG8WXd4R7RYAAAAC/pato-caminando.gif" width="250" height="250" 
-    margin="50"/>
+  <img loading="lazy" align="right" src="https://media.tenor.com/XG8WXd4R7RYAAAAC/pato-caminando.gif" width="250" height="250"/>
 
 ## Juliano Sobrinho:
 Sou Dev tenho 18 anos moro em pinda/sp, gosto muito de café ☕ e sou facinado pelo mundo da programação </>. 
