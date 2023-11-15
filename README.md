@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img loading="lazy"><img loading="lazy" src="https://drive.google.com/file/d/1Y7IO1l1sdkAKA5VcnYGeNqG5Wwq-XQCH/view?usp=drive_link" width="40" height="40"/>
+
 
 ## Ferramentas e Tecnologias
 <div>
