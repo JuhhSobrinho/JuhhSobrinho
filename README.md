@@ -1,4 +1,4 @@
-### Hello World 👋
+# Hello World 👋
 
 ## Juliano Sobrinho:
 
@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/juliano-sobrinho-jr-0a157a25a/" target="_blank"><img loading="lazy" src="https://github.com/Aakarsh-B/trying-repos/raw/master/linkedin.svg" width="20" height="20"></a>
 <a href="https://instagram.com/juhh_sobrinho/" target="_blank"><img loading="lazy" src="https://github.com/Aakarsh-B/trying-repos/raw/master/insta.svg" width="20" height="20" ></a>
 </div>
-
-<img loading="lazy"><img loading="lazy" src="https://drive.google.com/file/d/1Y7IO1l1sdkAKA5VcnYGeNqG5Wwq-XQCH/view?usp=drive_link" width="40" height="40"/>
-
 
 ## Ferramentas e Tecnologias
 <div>
