@@ -2,11 +2,11 @@
 
 ## Juliano Sobrinho:
 
+  <img loading="lazy" align="right" src="https://github.com/JuhhSobrinho/JuhhSobrinho/blob/main/euicon2.png?raw=true" width="80" height="80"/>
 <div>
 <div>
 <a href="https://www.linkedin.com/in/juliano-sobrinho-jr-0a157a25a/" target="_blank"><img loading="lazy" src="https://github.com/Aakarsh-B/trying-repos/raw/master/linkedin.svg" width="20" height="20"></a>
 <a href="https://instagram.com/juhh_sobrinho/" target="_blank"><img loading="lazy" src="https://github.com/Aakarsh-B/trying-repos/raw/master/insta.svg" width="20" height="20" ></a>
-  <img loading="lazy" align="right" src="https://github.com/JuhhSobrinho/JuhhSobrinho/blob/main/euicon2.png?raw=true" width="40" height="40"/>
 </div>
 
 
