@@ -14,7 +14,7 @@ Um caçador de bugs, depois de eu mesmo ter criado eles, enfim para trás nem pa
 
 
 
-## Ferramentas e Tecnologias 🖥💻
+## Ferramentas e Tecnologias 💻
 <div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
