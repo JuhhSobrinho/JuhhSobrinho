@@ -34,7 +34,7 @@ Um caçador de bugs, depois de eu mesmo ter criado eles, enfim para trás nem pa
 </div>
 
 
-<div>
+<div aling="center>
 <a href="https://github.com/JuhhSobrinho">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuhhSobrinho&layout=compact&langs_count=7&theme=blueberry"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JuhhSobrinho&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
