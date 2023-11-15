@@ -2,7 +2,7 @@
 
 ## Juliano Sobrinho:
 
-  <img loading="lazy" align="right" src="https://media.tenor.com/XG8WXd4R7RYAAAAC/pato-caminando.gif" width="250" height="250" style="border-radius: 2"/>
+  <img loading="lazy" align="right" src="https://media.tenor.com/XG8WXd4R7RYAAAAC/pato-caminando.gif" width="250" height="250" style="border-radius: 20px"/>
 <div>
 <div>
 <a href="https://www.linkedin.com/in/juliano-sobrinho-jr-0a157a25a/" target="_blank"><img loading="lazy" src="https://github.com/Aakarsh-B/trying-repos/raw/master/linkedin.svg" width="20" height="20"></a>
