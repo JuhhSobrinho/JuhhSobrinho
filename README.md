@@ -34,5 +34,5 @@
 <div>
 <a href="https://www.linkedin.com/in/juliano-sobrinho-jr-0a157a25a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/juhh_sobrinho/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:juliano.sobrinhojunior@gmail.com"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
+<a href = "mailto:juliano.sobrinhojunior@gmail.com"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"></a>
 </div>
