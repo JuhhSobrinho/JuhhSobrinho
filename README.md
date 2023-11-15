@@ -34,7 +34,7 @@ Um caçador de bugs, depois de eu mesmo ter criado eles, enfim para trás nem pa
 </div>
 
 
-<div aling="center">
+<div>
 <a href="https://github.com/JuhhSobrinho">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuhhSobrinho&layout=compact&langs_count=7&theme=blueberry"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JuhhSobrinho&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
@@ -45,6 +45,6 @@ Um caçador de bugs, depois de eu mesmo ter criado eles, enfim para trás nem pa
 ## Contatos:
 
 <div>
-<a href="https://www.linkedin.com/in/juliano-sobrinho-jr-0a157a25a/" target="_blank"><img loading="lazy" src="https://github.com/Aakarsh-B/trying-repos/raw/master/linkedin.svg" width="20" height="20"></a>
-<a href="https://instagram.com/juhh_sobrinho/" target="_blank"><img loading="lazy" src="https://github.com/Aakarsh-B/trying-repos/raw/master/insta.svg" width="20" height="20" ></a>
+<a href="https://www.linkedin.com/in/juliano-sobrinho-jr-0a157a25a/" target="_blank"><img loading="lazy" src="https://github.com/Aakarsh-B/trying-repos/raw/master/linkedin.svg" width="20" height="20" aling="center"></a>
+<a href="https://instagram.com/juhh_sobrinho/" target="_blank"><img loading="lazy" src="https://github.com/Aakarsh-B/trying-repos/raw/master/insta.svg" width="20" height="20" aling="center"></a>
 </div>
