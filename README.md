@@ -1,7 +1,7 @@
 # Hello World 👋
 
 ## Juliano Sobrinho:
-Sou Dev tenho 18 anos moro em pinda/sp, gosto muito de café e sou facinado pelo mundo da programação. 
+Sou Dev tenho 18 anos moro em pinda/sp, gosto muito de café ☕ e sou facinado pelo mundo da programação </>. 
 Um caçador de bugs, depois de eu mesmo ter criado eles, enfim para trás nem para pegar empulso.
 
 
