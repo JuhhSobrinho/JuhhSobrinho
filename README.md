@@ -45,7 +45,8 @@ Um caçador de bugs, depois de eu mesmo ter criado eles, enfim para trás nem pa
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" height="40"/>
   </div>
 </div>
-
+</br>
+</br>
 ## Contatos
 <div>
 <a href="https://www.linkedin.com/in/juliano-sobrinho-jr-0a157a25a/" target="_blank"><img loading="lazy" src="https://github.com/Aakarsh-B/trying-repos/raw/master/linkedin.svg" width="20" height="20"></a>
